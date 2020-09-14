@@ -1,6 +1,6 @@
 # ask_me
-
-A new Flutter application.
+Simple Ask Me a Question Application
+![Screenshot_1600069911](https://user-images.githubusercontent.com/63286192/93059375-3ac50200-f68e-11ea-8dfe-8b9964ec4822.png)
 
 ## Getting Started
 
